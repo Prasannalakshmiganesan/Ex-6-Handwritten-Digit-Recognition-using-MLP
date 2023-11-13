@@ -141,18 +141,18 @@ print(np.argmax(prediction))
 new_img.shape
 ```
 ## Output :
-MODEL SUMMARY
+## MODEL SUMMARY
 ![281485010-bee78f55-ae28-488c-8f98-0be4d9298c8a](https://github.com/Prasannalakshmiganesan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118610231/8ae5d19e-64c7-4243-99e1-3007bbc789fd)
 
-TRAINING LOGS
+## TRAINING LOGS
 ![281485346-45e85908-0c2e-4ffc-894c-750b91c1562e](https://github.com/Prasannalakshmiganesan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118610231/b6e9150c-7787-46be-978a-f53c7ed8eb70)
 
-ACCURACY AND LOSS PERCENTILE
+## ACCURACY AND LOSS PERCENTILE
 ![281485706-fe047740-9e40-4f29-8cb4-163c413fa05f](https://github.com/Prasannalakshmiganesan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118610231/e76b19ee-6234-4e6b-be5d-976a32a02e2b)
 
 ![281485806-28450fe0-b471-473f-9af4-67a189b18607](https://github.com/Prasannalakshmiganesan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118610231/52e468b5-a2ed-4232-a2ea-d6f275bf37a7)
 
-PREDICTION
+## PREDICTION
 
 ![281487275-a5df537c-af95-4b47-88a0-cf3d37a01532](https://github.com/Prasannalakshmiganesan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118610231/09c3a36f-f527-4d2d-92ab-dd27721aa462)
 
